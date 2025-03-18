@@ -1,0 +1,163 @@
+"Item"
+{
+	"ItemClass" "ItemBase"
+	"Type"      "ITEM_GLASS_REMOVER"
+	"Editor"
+	{
+		"SubTypeProperty"	"CubeType"
+		"SubType"
+		{
+			"Name"			"Glass Remover"
+			"Model"
+			{
+				"ModelName"	"bee2/glass_remover_1.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "GLASS REMOVER"
+				"Image"    "palette/hovering_harry/glass_remover.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"SubType"
+		{
+			"Name"			"Glass Remover"
+			"Model"
+			{
+				"ModelName"	"bee2/glass_remover_2.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "GLASS REMOVER"
+				"Image"    "palette/hovering_harry/glass_remover.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"SubType"
+		{
+			"Name"			"Glass Remover"
+			"Model"
+			{
+				"ModelName"	"bee2/glass_remover_3.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "GLASS REMOVER"
+				"Image"    "palette/hovering_harry/glass_remover.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"SubType"
+		{
+			"Name"			"Glass Remover"
+			"Model"
+			{
+				"ModelName"	"bee2/glass_remover_4.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "GLASS REMOVER"
+				"Image"    "palette/hovering_harry/glass_remover.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"SubType"
+		{
+			"Name"			"Glass Remover"
+			"Model"
+			{
+				"ModelName"	"bee2/glass_remover_g.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "GLASS REMOVER"
+				"Image"    "palette/hovering_harry/glass_remover.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"MovementHandle"		"HANDLE_8_POSITIONS"
+		"OccupiesVoxel"         "0"
+		"CanAnchorOnBarriers"	"0"
+	}
+	"Properties"
+	{
+		"CubeType"
+		{
+			"DefaultValue"  "0"
+			"Index"         "1"
+		}
+	}
+	"Exporting"
+	{
+		"Instances"
+		{
+			"0"
+			{
+				"Name"				"instances/BEE2/logic/blocks/glass_remover_0.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"0"
+				"BrushSideCount"	"0"
+			}
+			"1"
+			{
+				"Name"				"instances/BEE2/logic/blocks/glass_remover_1.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"0"
+				"BrushSideCount"	"0"
+			}
+			"2"
+			{
+				"Name"				"instances/BEE2/logic/blocks/glass_remover_2.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"0"
+				"BrushSideCount"	"0"
+			}
+			"3"
+			{
+				"Name"				"instances/BEE2/logic/blocks/glass_remover_3.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"0"
+				"BrushSideCount"	"0"
+			}
+			"4"
+			{
+				"Name"				"instances/BEE2/logic/blocks/glass_remover_4.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"0"
+				"BrushSideCount"	"0"
+			}
+		}
+	"TargetName" "bl"
+	"Offset" "64 64 64"
+	}
+}

@@ -1,0 +1,39 @@
+"ID" "HOVERING_HARRYS_CURSED_STUFF"
+"Name" "Hovering Harry's cursed stuff"
+"Desc" "Some items which get a little bit cursed"
+
+"Item"
+{
+	"ID"  "ITEM_FACE_REMOVER"
+	"Version"
+	{
+		"Styles"
+		{
+			"ANY_STYLE" "face_remover"
+		}
+	}
+}
+
+"Item"
+{
+	"ID"  "ITEM_GLASS_REMOVER"
+	"Version"
+	{
+		"Styles"
+		{
+			"ANY_STYLE" "glass_remover"
+		}
+	}
+}
+
+"Item"
+{
+	"ID"  "ITEM_OFFSETTER"
+	"Version"
+	{
+		"Styles"
+		{
+			"ANY_STYLE" "offsetter"
+		}
+	}
+}

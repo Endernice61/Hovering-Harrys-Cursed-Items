@@ -1,0 +1,8 @@
+"Properties" {
+	"Authors" "Hovering Harry"
+	"Description" {
+		"" "Cuts out the face of a wall. **CAUSES LEAKS**"
+		"" ""
+		"" ""
+		}
+}

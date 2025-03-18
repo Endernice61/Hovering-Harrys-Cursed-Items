@@ -1,0 +1,12 @@
+"Properties"
+	{
+	"Authors"     "Carl Kenner, TeamSpen210, Hovering Harry"
+	"Tags"        "Carl Kenner;BEE 2;Partial Blocks"
+	"Description" 
+		{
+		"" "This item removes glass/grating tiles  "
+		"" "Due to limitations in most use cases it must be used with the offsetter to position it properly  "
+		"" "**CubeType** controls where the removed tile is. The last type uses all four possible positions at once for convenience"
+		}
+	"ent_count"   "0"
+	}

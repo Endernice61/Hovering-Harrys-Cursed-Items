@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "color/blue"
+	$surfaceprop glass
+	%noportal 1
+	%nopaint 1
+	$nodecal 1
+}
