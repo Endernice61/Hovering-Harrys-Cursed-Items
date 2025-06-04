@@ -67,7 +67,6 @@
 		}
 		"MovementHandle"		"HANDLE_4_DIRECTIONS"
 		"OccupiesVoxel"         "0"
-		"CanAnchorOnBarriers"	"1"
 		"CanAnchorOnGoo"	"1"
 	}
 	"Properties"
