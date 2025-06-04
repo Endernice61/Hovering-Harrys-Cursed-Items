@@ -6,7 +6,8 @@
 		{
 		"" "This item removes glass/grating tiles  "
 		"" "Due to limitations in most use cases it must be used with the offsetter to position it properly  "
-		"" "**CubeType** controls where the removed tile is. The last type uses all four possible positions at once for convenience"
+		"" "**CubeType** controls where the removed tile is. The last type uses all four possible positions at once for convenience "
+		"" "(Versions **after** BEEMOD 2.4.45.2 only) You may also connect this item to glass to remove it completely. This can be useful for items that can be placed on barriers, as this removes the necessity of an offsetter"
 		}
 	"ent_count"   "0"
 	}

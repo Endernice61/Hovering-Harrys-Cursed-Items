@@ -111,10 +111,15 @@
 	}
 	"Properties"
 	{
+		"ConnectionCount"
+			{
+			"DefaultValue" "0"
+			"Index"        "1"
+			}
 		"CubeType"
 		{
 			"DefaultValue"  "0"
-			"Index"         "1"
+			"Index"         "2"
 		}
 	}
 	"Exporting"
@@ -157,7 +162,15 @@
 				"BrushSideCount"	"0"
 			}
 		}
-	"TargetName" "bl"
-	"Offset" "64 64 64"
+		"TargetName" "bl"
+		"Offset" "64 64 64"
+		"Inputs" 
+		{
+			// Outputs are used to target the glass to convert.
+			"BEE2"
+			{
+				"Force" "output"
+			}
+		}
 	}
 }
