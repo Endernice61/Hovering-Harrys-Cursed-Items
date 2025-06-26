@@ -1,0 +1,47 @@
+"Item"
+{
+	"Type"      "ITEM_GLUE"
+	"Editor"
+	{
+		"SubType"
+		{
+			"Name"			"Glue"
+			"Model"
+			{
+				"ModelName"	"paint_splatter_white.3ds"
+			}
+			"Palette"
+			{
+				"Tooltip"  "GLUE"
+				"Image"    "palette/paintsplat_portal.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"MovementHandle"		"HANDLE_4_DIRECTIONS"
+		"CanAnchorOnGoo"	"1"
+	}
+	"Properties"
+	{
+	}
+	"Exporting"
+	{
+		"Instances"
+		{
+			"0"
+			{
+				"Name"				"instances/BEE2/logic/glue.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"0"
+				"BrushSideCount"	"0"
+			}
+		}
+	"TargetName" ""
+	"Offset" "64 64 64"
+	}
+}

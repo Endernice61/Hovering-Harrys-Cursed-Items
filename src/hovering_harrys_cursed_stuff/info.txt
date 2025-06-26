@@ -13,7 +13,6 @@
 		}
 	}
 }
-
 "Item"
 {
 	"ID"  "ITEM_GLASS_REMOVER"
@@ -25,7 +24,6 @@
 		}
 	}
 }
-
 "Item"
 {
 	"ID"  "ITEM_OFFSETTER"
@@ -34,6 +32,17 @@
 		"Styles"
 		{
 			"ANY_STYLE" "offsetter"
+		}
+	}
+}
+"Item"
+{
+	"ID"  "ITEM_GLUE"
+	"Version"
+	{
+		"Styles"
+		{
+			"ANY_STYLE" "glue"
 		}
 	}
 }

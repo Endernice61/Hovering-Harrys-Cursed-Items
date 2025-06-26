@@ -1,0 +1,14 @@
+"Properties"
+	{
+	"Authors"     "Hovering Harry"
+	"Description" 
+		{
+		"" "Place on a piston/track platform and items on the surface of the platform *might* be glued properly to it. The offsetter will likely be needed to position the items on the surface of the piston/track platform"
+		"" ""
+		}
+	"Icon"
+		{
+			"0"		"clean/paintsplat_portal.png"
+		}
+	"ent_count"   "0"
+	}
