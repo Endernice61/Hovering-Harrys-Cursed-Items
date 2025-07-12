@@ -4,6 +4,7 @@
 	"Description" 
 		{
 		"" "Place on the same surface as other items and those items will be offset"
+		"" "Offsetters can be stacked on top of each other"
 		"" ""
 		"" "* **Button Type** is the direction to offset in, weighted being the normal of the face (z), square being perpendicular to the item and sphere being parallel the item. It will offset in the direction of the red arrow if the blue arrow is facing the same direction of the item. The rotation of the offsetter does not matter, it is simply there for convenience. "
 		"" "* **Timer Delay** is the amount of units to offset (0=31), **Start Enabled** will allow using this property"
