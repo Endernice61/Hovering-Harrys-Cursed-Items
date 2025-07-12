@@ -3,8 +3,8 @@
 	"Authors"     "Hovering Harry"
 	"Description" 
 		{
-		"" "Place on a piston/track platform and items on the surface of the platform *might* be glued properly to it. The offsetter will likely be needed to position the items on the surface of the piston/track platform"
-		"" ""
+		"" "Place on a piston/track platform and items on the surface of the platform *might* be glued properly to it. "
+		"" "* If **Start Active** is enabled, the glue will be applied before offsets, otherwise they will happen after offsets"
 		}
 	"Icon"
 		{
