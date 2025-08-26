@@ -1,0 +1,146 @@
+"Item"
+{
+	"ItemClass" "ItemButtonFloor"
+	"Type"      "ITEM_ROTATOR"
+	"Editor"
+	{
+		"SubTypeProperty" "ButtonType"
+		"SubType"
+		{
+			"Name"			"Rotator"
+			"Model"
+			{
+				"ModelName"	"bee2/arrow_up.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "ROTATOR"
+				"Image"    "palette/hovering_harry/offsetter.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"SubType"
+		{
+			"Name"			"Rotator"
+			"Model"
+			{
+				"ModelName"	"bee2/arrow_left.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "ROTATOR"
+				"Image"    "palette/hovering_harry/offsetter.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"SubType"
+		{
+			"Name"			"Rotator"
+			"Model"
+			{
+				"ModelName"	"bee2/arrow_straight.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "ROTATOR"
+				"Image"    "palette/hovering_harry/offsetter.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"MovementHandle"		"HANDLE_4_DIRECTIONS"
+		"OccupiesVoxel"         "0"
+		"CanAnchorOnGoo"	"1"
+		"CanAnchorOnBarriers"	"1"
+	}
+	"Properties"
+	{
+		"ButtonType"
+		{
+			"DefaultValue"  "1"
+			"Index"         "0"
+		}
+		"CubeType"
+		{
+			"DefaultValue"  "0"
+			"Index"         "1"
+		}
+		"TimerDelay"
+		{
+			"DefaultValue"  "1"
+			"Index"         "2"
+		}
+		"StartDeployed"
+		{
+			"DefaultValue"  "0"
+			"Index"         "3"
+		}
+	}
+	"Exporting"
+	{
+		"Instances"
+		{
+			"0"
+			{
+				"Name"				"instances/BEE2/logic/rotatorx.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"1"
+				"BrushSideCount"	"6"
+			}
+			"1"
+			{
+				"Name"				"instances/BEE2/logic/rotatorx.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"1"
+				"BrushSideCount"	"6"
+			}
+			"2"
+			{
+				"Name"				"instances/BEE2/logic/rotatory.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"1"
+				"BrushSideCount"	"6"
+			}
+			"3"
+			{
+				"Name"				"instances/BEE2/logic/rotatory.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"1"
+				"BrushSideCount"	"6"
+			}
+			"4"
+			{
+				"Name"				"instances/BEE2/logic/rotatorz.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"1"
+				"BrushSideCount"	"6"
+			}
+			"5"
+			{
+				"Name"				"instances/BEE2/logic/rotatorz.vmf"
+				"EntityCount"		"0"
+				"BrushCount"		"1"
+				"BrushSideCount"	"6"
+			}
+		}
+	"TargetName" ""
+	"Offset" "64 64 64"
+	}
+}

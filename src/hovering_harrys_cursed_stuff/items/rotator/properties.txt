@@ -1,0 +1,15 @@
+"Properties"
+	{
+	"Authors"     "Hovering Harry"
+	"Description" 
+		{
+		"" "Place on the same surface as other items and those items will be rotated. Rotations happen *after* offsets, but affect items *before* offsets. "
+		"" "Rotators can be stacked on top of each other"
+		"" ""
+		"" "* **Button Type** is the direction to rotate, weighted being the face, square keeping perpendicularity and sphere keeping the item parallel. It will rotate in the direction of the red arrow if the blue arrow is facing the same direction of the item. The rotation of the rotator does not matter, it is simply there for convenience. "
+		"" "* **Cube Type** will rotate 0, 90, 180, 270 or 360 degrees"
+		}
+	"ent_count"   "0"
+	
+	"all_name"    "ROTATOR"
+	}

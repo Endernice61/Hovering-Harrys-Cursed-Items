@@ -1,0 +1,49 @@
+"Item"
+{
+	"Type"      "ITEM_ITEM_REMOVER"
+	"Editor"
+	{
+		"SubType"
+		{
+			"Name"			"Item Remover"
+			"Model"
+			{
+				"ModelName"	"bee2/arrow_up.mdl"
+			}
+			"Palette"
+			{
+				"Tooltip"  "ITEM REMOVER"
+				"Image"    "palette/hovering_harry/offsetter.png"
+			}
+			"Sounds"
+			{
+				"SOUND_CREATED"					"P2Editor.PlaceButton"
+				"SOUND_EDITING_ACTIVATE"		"P2Editor.DropperDisabled"
+				"SOUND_EDITING_DEACTIVATE"		"P2Editor.DropperEnabled"
+				"SOUND_DELETED"					"P2Editor.RemoveButton"
+			}
+		}
+		"MovementHandle"		"HANDLE_4_DIRECTIONS"
+		"OccupiesVoxel"         "0"
+		"CanAnchorOnGoo"	"1"
+		"CanAnchorOnBarriers"	"1"
+	}
+	"Properties"
+	{
+	}
+	"Exporting"
+	{
+		"Instances"
+		{
+			"0"
+			{
+				"Name"				"instances/BEE2/logic/item_remover.vmf"
+				"EntityCount"		"-1"
+				"BrushCount"		"0"
+				"BrushSideCount"	"0"
+			}
+		}
+	"TargetName" ""
+	"Offset" "64 64 64"
+	}
+}
