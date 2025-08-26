@@ -46,3 +46,27 @@
 		}
 	}
 }
+"Item"
+{
+	"ID"  "ITEM_ROTATOR"
+	"NeedsUnlock" "1"
+	"Version"
+	{
+		"Styles"
+		{
+			"ANY_STYLE" "rotator"
+		}
+	}
+}
+"Item"
+{
+	"ID"  "ITEM_ITEM_REMOVER"
+	"NeedsUnlock" "1"
+	"Version"
+	{
+		"Styles"
+		{
+			"ANY_STYLE" "item_remover"
+		}
+	}
+}
