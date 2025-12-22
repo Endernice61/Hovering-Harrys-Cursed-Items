@@ -70,3 +70,18 @@
 		}
 	}
 }
+"ConfigGroup"
+{
+	"ID"    "VALVE_MANDATORY"
+	"Name"  "Mandatory Items"
+	"Widget"
+	{
+			"ID"      "CarveObsRoom"
+			"Type"    "Checkbox"
+			"Default" "1"
+		
+			"Label"   "Carve Observation Rooms"
+		
+			"Tooltip" "Offset observation rooms will automatically remove the wall it's on"
+	}
+}
