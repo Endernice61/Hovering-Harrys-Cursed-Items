@@ -82,6 +82,6 @@
 		
 			"Label"   "Carve Observation Rooms"
 		
-			"Tooltip" "Offset observation rooms will automatically remove the wall it's on"
+			"Tooltip" "Offset observation rooms will automatically fill and remove the wall it's on to match its offset position"
 	}
 }
