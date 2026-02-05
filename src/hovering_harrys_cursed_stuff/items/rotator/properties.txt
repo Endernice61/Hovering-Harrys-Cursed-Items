@@ -11,5 +11,6 @@
 		}
 	"ent_count"   "0"
 	
-	"all_name"    "ROTATOR"
+	"all_name"	"ROTATOR"
+	"all_icon"	"palette/hovering_harry/offsetter.png"
 	}

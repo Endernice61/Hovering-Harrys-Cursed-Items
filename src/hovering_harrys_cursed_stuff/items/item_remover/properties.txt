@@ -6,6 +6,4 @@
 		"" "Place on the same surface as other items and those items will be removed. This occurs at the very end of compilation "
 		}
 	"ent_count"   "0"
-	
-	"all_name"    "ITEM REMOVER"
 	}

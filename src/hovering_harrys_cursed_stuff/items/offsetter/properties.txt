@@ -22,5 +22,6 @@
 		}
 	"ent_count"   "0"
 	
-	"all_name"    "OFFSETTER"
+	"all_name"	"OFFSETTER"
+	"all_icon"	"palette/hovering_harry/offsetter.png"
 	}
