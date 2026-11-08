@@ -32,11 +32,6 @@
 			{
 				"ModelName"	"bee2/glass_remover_2.mdl"
 			}
-			"Palette"
-			{
-				"Tooltip"  "GLASS REMOVER"
-				"Image"    "palette/hovering_harry/glass_remover.png"
-			}
 			"Sounds"
 			{
 				"SOUND_CREATED"					"P2Editor.PlaceButton"
@@ -52,11 +47,6 @@
 			{
 				"ModelName"	"bee2/glass_remover_3.mdl"
 			}
-			"Palette"
-			{
-				"Tooltip"  "GLASS REMOVER"
-				"Image"    "palette/hovering_harry/glass_remover.png"
-			}
 			"Sounds"
 			{
 				"SOUND_CREATED"					"P2Editor.PlaceButton"
@@ -71,11 +61,6 @@
 			"Model"
 			{
 				"ModelName"	"bee2/glass_remover_4.mdl"
-			}
-			"Palette"
-			{
-				"Tooltip"  "GLASS REMOVER"
-				"Image"    "palette/hovering_harry/glass_remover.png"
 			}
 			"Sounds"
 			{

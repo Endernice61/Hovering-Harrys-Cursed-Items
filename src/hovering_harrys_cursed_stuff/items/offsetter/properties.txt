@@ -21,7 +21,4 @@
 		"" "128 units = 1 voxel, 32 units = 1 tile"
 		}
 	"ent_count"   "0"
-	
-	"all_name"	"OFFSETTER"
-	"all_icon"	"palette/hovering_harry/offsetter.png"
 	}

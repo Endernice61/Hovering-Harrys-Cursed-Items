@@ -32,11 +32,6 @@
 			{
 				"ModelName"	"bee2/arrow_left.mdl"
 			}
-			"Palette"
-			{
-				"Tooltip"  "OFFSETTER"
-				"Image"    "palette/hovering_harry/offsetter.png"
-			}
 			"Sounds"
 			{
 				"SOUND_CREATED"					"P2Editor.PlaceButton"
@@ -51,11 +46,6 @@
 			"Model"
 			{
 				"ModelName"	"bee2/arrow_straight.mdl"
-			}
-			"Palette"
-			{
-				"Tooltip"  "OFFSETTER"
-				"Image"    "palette/hovering_harry/offsetter.png"
 			}
 			"Sounds"
 			{

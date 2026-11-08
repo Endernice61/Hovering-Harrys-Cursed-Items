@@ -10,7 +10,4 @@
 		"" "* **Cube Type** will rotate 0, 90, 180, 270 or 360 degrees"
 		}
 	"ent_count"   "0"
-	
-	"all_name"	"ROTATOR"
-	"all_icon"	"palette/hovering_harry/offsetter.png"
 	}
